@@ -33,6 +33,15 @@ teams:
         role: Graphic Designer
         # url: 
         img: ryan-1.jpg
+        
+      - name: Athiya Deviyani
+        role: Hack the Burgh Co-director
+        url: https://www.athiyadeviyani.com
+        img: tia-1.jpg
+        
+      - name: Alan Savio Paul
+        role: Hack the Burgh Co-director
+        img: alan-1.jpg
 
       - name: Yannik Nelson
         role: 2<sup>nd</sup> Year Rep
@@ -46,3 +55,5 @@ teams:
       - name: Tony Duggan
         role: 4<sup>th</sup> Year Rep
         img: tony-1.jpg
+
+ 
